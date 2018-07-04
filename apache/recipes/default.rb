@@ -7,3 +7,6 @@
 package 'apache' do
  action :install
 end
+
+package 'tree'
+package 'vim'
