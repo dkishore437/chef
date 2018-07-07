@@ -10,3 +10,5 @@ end
 
 package 'tree'
 package 'vim'
+package 'emacs'
+package 'net-tools'
