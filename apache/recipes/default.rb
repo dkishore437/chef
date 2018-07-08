@@ -8,9 +8,3 @@ package 'apache' do
  action :install
 end
 
-package 'tree'
-package 'vim'
-package 'emacs'
-package 'net-tools'
-package 'nano'
-package 'httpd'
