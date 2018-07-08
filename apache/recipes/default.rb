@@ -9,4 +9,4 @@ package 'apache' do
 end
 
 package 'tree'
-
+package 'httpd'
