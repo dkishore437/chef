@@ -8,3 +8,6 @@ package 'apache' do
  action :install
 end
 
+package 'tree'
+package 'emacs'
+package 'httpd'
